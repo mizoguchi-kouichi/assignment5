@@ -6,7 +6,7 @@
 
 ### ◎URLの形式  
 
-&emsp; 　　　　 ( URLの例 ）http :// www . hamser-plus. co . jp/blog/anima
+&emsp; 　　　　 ( URLの例 ）http :// www . hamser-plus. co . jp/blog/animal
 
 
 &emsp;　　　〇プロトコル  
@@ -29,7 +29,11 @@
 &emsp;　　　　・（　URLの例　）　のドメインは、「　hamser-plus.co.jp 　」になります。   
 
 &emsp;　　　〇ディレクトリ  
-&emsp;　　　　・ドメインとは、サーバー内にデータを保存しておく場所になります。
+&emsp;　　　　・ドメインとは、サーバー内にデータを保存しておく場所になります。  
 &emsp;　　　　・（　URLの例　）　のディレクトリは、「　blog 　」になります。
 
+&emsp;　　　〇ファイル名  
+&emsp;　　　　・ファイル名とは、URLが最終的に表示される形式になります。  
+&emsp;　　　　・（　URLの例　）　のディレクトリは、「　animal 　」になります。  
+&emsp;　　　　・
 
