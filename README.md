@@ -41,10 +41,27 @@
 &emsp;　　　　・クエリ文字列とは、URLの末尾から「？」で始まる文字列のことになります。   
 &emsp;　　　　・クエリ文字列は、広告の効果を測定したり、集客でいいサイトを判断する等で  
 &emsp;　　　　　使用されます。  
-&emsp;　　　　・クエリ文字列は、URLパラメータともよばれています。  
-&emsp;　　　　・(参考画像）  
+&emsp;　　　　・クエリ文字列は、URLパラメータともよばれています。      
 
-<img src="https://www.kwm.co.jp/media/2021/05/image10.png" align="right" width="90%">
+<img src="https://www.kwm.co.jp/media/2021/05/image10.png" align="right" width="90%">  
+<br>
+<br>
+<br> 
+<br>  
+<br>
+&emsp;　　　　　　　　　　　　　　　　　　　　　　　　　　　　クエリ文字列の参考画像　　　　
+<br>　　　
+<br>  
+<br>  
+<br>
+<br>
+***  
+
+
 
  
+
+
+
+
 
