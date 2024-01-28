@@ -2,9 +2,9 @@
 ### ◎URLとは  
  - URLとは、インターネット上でのwebサイトやファイルの場所や情報の住所になります。
  - URLは、「Unifrom　Resource　Locator」の略になります。
-<br>
+<br>　　
 ### ◎URLの形式  
-<br>
+<br>　　
 &emsp; 　　　　 ( URLの例 ）http://www.hamser-plus.co.jp/blog/animal
 <br>
 <br>
@@ -49,12 +49,15 @@
 <br> 
 <br>  
 <br>
-&emsp;　　　　　　　　　　　　　　　　　　　　　　　　　　　　クエリ文字列の参考画像　　　　
+&emsp;　　　　　　　　　　　　　　　　　　　　     　　　　　　　　　クエリ文字列の参考画像　　　　
 <br>
 <br>
 
 ***
 # パス変数  
+### ◎パス変数とは  
+&emsp;　　　　・パス変数とは、パソコンの環境変数という動作設定項目の一つになります。  
+&emsp;　　　　・パス変数は、
 
 
 
