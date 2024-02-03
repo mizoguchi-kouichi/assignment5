@@ -192,8 +192,61 @@
 ```
 {"key" : "value"}
 ```
-&emsp; 　　　　・カンマで区切ると、 
-
+&emsp; 　　　　・カンマで区切ると、キーと値の組み合わせを複数記述できます。
+```
+{"key1" : "value1","key2" : "value2"}
+```
+### ◎JSONが対応しているデータ型  
+&emsp; 　　　　1.文字列  
+&emsp;　　　　　・文字列は、ダブルクォーテーション(")、バックスラッシュ(\)以外の文字であれば  
+&emsp;　　　　　　日本語でも入力ができます。
+```
+{"name" : "tanaka"}
+```             
+&emsp; 　　　　2.数値  
+&emsp; 　　　　 ・数値は、ダブルクォーテーションで囲むと文字列扱いになるので、囲まず  
+&emsp;　　　　　　入力します。
+```
+{"id",1}
+```
+&emsp; 　　　　3.null  
+&emsp; 　　　　 ・nullは、値がない事をnullで指定します。  
+```
+{"name" : null }
+```
+&emsp; 　　　　4.真偽値  
+&emsp; 　　　　 ・真偽をtrueをまたはfalseで指定します。  
+```
+{
+　"active_flag" : true,
+  "delete_flag" : false,
+ }
+```
+&emsp; 　　　　5.オブジェクト  
+&emsp; 　　　　 ・オブジェクトを｛｝で指定する事が出来ます。 
+```
+{
+　　"user_info": {
+    "user_id": "A1234567",
+    "user_name": "Yamada Taro"
+  }
+}
+```
+&emsp; 　　　　6.配列  
+&emsp;　　　　　・配列を［］で指定します。  
+&emsp;　　　　　・配列の要素には、文字列、数値、null値、真偽値、オブジェクト、配列すべてを使用出来ます。
+```
+{
+  "color_list": [ "red", "green", "blue" ],
+  "num_list": [ 123, 456, 789 ],
+  "mix_list": [ "red", 456, null, true ],
+  "array_list": [ [ 12, 23 ], [ 34, 45 ], [ 56, 67 ] ],
+  "object_list": [
+    { "name": "Tanaka", "age": 26 },
+    { "name": "Suzuki", "age": 32 }
+  ]
+}
+````
 
 
 
